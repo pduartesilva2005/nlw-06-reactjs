@@ -32,6 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 
 Antes de começar a executar esse projeto é necessário ter o [Node.js](https://nodejs.org/) e o [Git](https://git-scm.com) instalado na sua máquina
 
+Primeiro você deve clonar esse repositório e entre na pasta desse repositório que havia sido clonado, caso você não queira seguir esse passo você pode baixar esse repositório em arquivo .zip nesse link [download .zip](https://github.com/pduartesilva2005/nlw-06-reactjs/archive/refs/heads/main.zip)
+
 ```bash
 $ git clone https://github.com/pduartesilva2005/nlw-06-reactjs
 $ cd nlw-06-reactjs
